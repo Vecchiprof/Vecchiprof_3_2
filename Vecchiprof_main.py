@@ -1,3 +1,3 @@
 import laputian
 
-tito_vecchi.tito_saluta()
+laputian.laputian_saluta()
